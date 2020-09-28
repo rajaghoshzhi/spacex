@@ -1,0 +1,64 @@
+body {
+    background:lightgray;
+}
+.leftSide {
+    width: 20%;
+    height:100%;
+    position:fixed;
+    background:#fff;
+
+}
+.launchYearContainer .element{
+    width: 20%;
+    background: #77e677;
+    float: left;
+    margin: 10px 12px;
+    border-radius: 7px;
+    font-size: 12px;
+    padding: 3px;
+    font-weight: bold;
+}
+.rightSide {
+    width: 80%;
+    margin-left: 21%;
+}
+.rightSide .item {
+    background: #fff;
+    width: 20%;
+    height: 306px;
+    margin: 10px 10px;
+    float: left;    
+}
+.rightSide .item .top{
+    background: #f1f1f1;
+    height: 180px;
+    margin: 10px;
+}
+.rightSide .item .top img {
+    width: 180px;
+
+}
+.rightSide .item .top_container{
+    /* background: grey; */
+    margin: 10px;
+    height: 100px;
+}
+.rightSide .item .top_container .header_list {
+    text-align:left;
+    font-size: 12px;
+    font-weight: 600;
+    color:#373792;
+}
+.rightSide .item .top_container .list{
+    text-align:left;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.developerCredentials{
+    font-weight: bold;
+}
+.section{
+    width: 100%;
+    margin-top: 54px;
+}
